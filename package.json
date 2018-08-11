@@ -1,0 +1,30 @@
+{
+  "name": "html5-courses",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmeloo13/html5-course.git"
+  },
+  "keywords": [
+    "html5",
+    "nodejs",
+    "cs3",
+    "npm",
+    "github"
+  ],
+  "author": "Lucas Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasmeloo13/html5-course/issues"
+  },
+  "homepage": "https://github.com/lucasmeloo13/html5-course#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
